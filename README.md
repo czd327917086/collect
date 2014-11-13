@@ -1,4 +1,0 @@
-collect
-=======
-
-collect by thinkphp
